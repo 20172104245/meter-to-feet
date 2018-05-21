@@ -1,0 +1,6 @@
+﻿1>------ 已启动生成: 项目: ConsoleApplication1, 配置: Debug Win32 ------
+1>  ConsoleApplication1.cpp
+1>c:\users\hp301\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+1>  ConsoleApplication1.vcxproj -> C:\Users\HP301\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+1>  ConsoleApplication1.vcxproj -> C:\Users\HP301\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
